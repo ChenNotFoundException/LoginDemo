@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_31d6d2c0ceccd9a00cc7fea4aea37a718a411070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_8b5cf2424ddb4d3255fd5b504bc061c33490ae78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_116d71db2d2392f6d1238891be428b37362eb1e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_d1938c8dc618ac90a2fb2a837b1b2742bbca9f94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_cede5df1e9324f163eae7c5e3c49218e14c75eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_a39db3aa2696cee308175d45ebec472b15218624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_c5718de5797c9201280a92c87c7ade982e5bbe85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_b5c63a8517d6ea1ee8e1b02e2a18ca31a8da4ae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_d6ce092b4927d6ddfb422a4ef14efd79ad8da738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\AndroidProject\AndroidHTTPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_9b657ab2373eac7793e14009ee4a328c975015bf.jar" />
+    </item>
+
+</items>

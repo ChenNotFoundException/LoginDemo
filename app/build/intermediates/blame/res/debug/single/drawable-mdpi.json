@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\AndroidHTTPDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\AndroidProject\\AndroidHTTPDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\AndroidHTTPDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_arrow.png",
+        "source": "E:\\AndroidProject\\AndroidHTTPDemo\\app\\src\\main\\res\\drawable-mdpi\\login_arrow.png"
+    }
+]
