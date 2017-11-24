@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/login_background"
     android:orientation="vertical" >
-    
-    <TextView android:layout_width="fill_parent"
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="这是Reg"/>
+        android:layout_margin="15dip"
+        android:padding="15dip" >
+
+        <!-- 账号 -->
+
+
+
+        <EditText
+            android:id="@+id/reguser"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_edit"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:hint="用户名/手机号/Email"
+            android:inputType="text"
+            android:paddingBottom="7dp"
+            android:paddingLeft="9dp"
+            android:paddingRight="8dp"
+            android:paddingTop="7dp"
+            android:singleLine="true"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+        <!-- 密码 text -->
+
+        <EditText
+            android:id="@+id/regpass"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_edit"
+            android:inputType="textPassword"
+            android:paddingBottom="7dp"
+            android:paddingLeft="9dp"
+            android:paddingRight="8dp"
+            android:paddingTop="7dp"
+            android:password="true"
+            android:singleLine="true"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:layout_below="@+id/reguser"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+        <!-- 登录button -->
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/reg"
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="#4cc05f"
+        android:drawablePadding="5dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:text="注册"
+        android:textColor="#ffffff"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/info"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/register"
+        android:text="服务器返回信息："
+        android:textColor="#FFF"
+        android:textSize="20sp" />
+
 </LinearLayout>

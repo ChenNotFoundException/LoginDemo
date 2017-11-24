@@ -1909,7 +1909,10 @@ containing a value of this type.
         public static final int progress_circular=0x7f0a0005;
         public static final int progress_horizontal=0x7f0a0006;
         public static final int radio=0x7f0a0040;
+        public static final int reg=0x7f0a0076;
         public static final int register=0x7f0a005c;
+        public static final int regpass=0x7f0a0075;
+        public static final int reguser=0x7f0a0074;
         public static final int right_icon=0x7f0a006b;
         public static final int right_side=0x7f0a0068;
         public static final int screen=0x7f0a0015;

@@ -31,7 +31,7 @@ public class WebServicePost {
 	public static String executeHttpPost(String username, String password) {
 
 		try {
-			String path = "http://" + IP + "/HelloWeb/LogLet";
+			String path = "http://" + IP + "/HelloWeb/RegLet";
 
 			// 发送指令和信息
 			Map<String, String> params = new HashMap<String, String>();
